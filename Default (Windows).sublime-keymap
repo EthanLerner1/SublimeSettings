@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["ctrl+alt+l"], // or any other shortcut you prefer
+        "command": "select_column"
+    }
+]
